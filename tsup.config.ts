@@ -5,7 +5,7 @@ export default defineConfig({
   splitting: true,
   legacyOutput: true,
   outDir: 'dist',
-  format: ['esm'],
+  format: ['cjs'],
   tsconfig: './tsconfig.json',
   target: 'es2020',
   clean: true,
