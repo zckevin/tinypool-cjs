@@ -1,5 +1,5 @@
 {
-  "name": "tinypool",
+  "name": "@zckevin/tinypool-cjs",
   "version": "0.3.0",
   "description": "A minimal and tiny Node.js Worker Thread Pool implementation, a fork of piscina, but with fewer features",
   "type": "commonjs",
